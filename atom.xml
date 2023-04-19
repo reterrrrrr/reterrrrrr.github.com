@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>请勿摸鱼</title>
+  
+  
+  <link href="https://reterrrrrr.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://reterrrrrr.github.io/"/>
+  <updated>2023-04-18T12:13:58.227Z</updated>
+  <id>https://reterrrrrr.github.io/</id>
+  
+  <author>
+    <name>珍珠奶茶不要珍珠</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://reterrrrrr.github.io/post/34d2.html"/>
+    <id>https://reterrrrrr.github.io/post/34d2.html</id>
+    <published>2023-04-18T12:13:57.000Z</published>
+    <updated>2023-04-18T12:13:58.227Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
